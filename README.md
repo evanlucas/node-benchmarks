@@ -14,3 +14,7 @@ It will use whatever node binary is in your `$PATH` to run the benchmark.
 # Author
 
 Evan Lucas
+
+# License
+
+MIT

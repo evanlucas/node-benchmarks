@@ -33,3 +33,7 @@ Evan Lucas
 ## Contributions
 
 Contributions are very welcome. Please help make this better.
+
+## License
+
+MIT
