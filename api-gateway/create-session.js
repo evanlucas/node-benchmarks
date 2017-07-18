@@ -1,7 +1,5 @@
 'use strict'
 
-'use strict'
-
 // Most of this is taken from
 // https://github.com/kelektiv/node-uuid/blob/master/lib/bytesToUuid.js
 // Why didn't we use uuid?
